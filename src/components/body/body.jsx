@@ -1,4 +1,3 @@
-import img from "../shared_network.png";
 const Body = () => {
   return (
     <div style={{backgroundColor:"#f0f2f5", minHeight:"90vh", display:"flex", justifyContent:"center", alignItems:"center"}}>
